@@ -5,7 +5,7 @@
 - 💬 Actually I'm working with the following technologies:
   - C++/Boost/Google Test 💀
   - Javascript/Nodejs/Reactjs 👻
-- 😄 I enjoy work with when I have the opportunity:
+- 😄 I enjoy work with the following languages when I have the opportunity:
   - Clojure
   - Python
   - emacs-lisp
