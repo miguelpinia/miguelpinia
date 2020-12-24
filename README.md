@@ -13,6 +13,8 @@
 
 ### The number of the beast: rw-rw-rw-
 
+[![Miguel's github stats](https://github-readme-stats.vercel.app/api?username=miguelpinia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **miguelpinia/miguelpinia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
