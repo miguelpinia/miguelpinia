@@ -13,9 +13,9 @@
 
 ### The number of the beast: rw-rw-rw-
 
-[![Miguel's github stats](https://github-readme-stats.vercel.app/api?username=miguelpinia&count_private=true&show_icons=true&theme=dracula)](https://github.com/miguelpinia)
+[![Miguel's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=miguelpinia&count_private=true&show_icons=true&theme=dracula)](https://github.com/miguelpinia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelpinia&layout=compact&langs_count=8&theme=dracula)](https://github.com/miguelpinia)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=miguelpinia&layout=compact&langs_count=10&theme=dracula)](https://github.com/miguelpinia)
 
 
 <!--
