@@ -13,7 +13,7 @@
 
 ### The number of the beast: rw-rw-rw-
 
-[![My Skills](https://skillicons.dev/icons?i=latex,emacs,clojure,java,py,js,nodejs,cpp,linux,react,materialui,mysql,postgres,mongodb,r,regex&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=latex,emacs,clojure,java,py,js,nodejs,cpp,linux,react,materialui,mysql,postgres,mongodb,r,regex&perline=10)](https://skillicons.dev)
 
 [![Miguel's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=miguelpinia&count_private=true&show_icons=true&theme=dracula)](https://github.com/miguelpinia)
 
