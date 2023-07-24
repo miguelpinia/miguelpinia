@@ -13,9 +13,14 @@
 
 ### The number of the beast: rw-rw-rw-
 
+[![My Skills](https://skillicons.dev/icons?i=latex,emacs,clojure,java,py,js,nodejs,cpp,linux,react,materialui,mysql,postgres,mongodb,r,regex&perline=3)](https://skillicons.dev)
+
 [![Miguel's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=miguelpinia&count_private=true&show_icons=true&theme=dracula)](https://github.com/miguelpinia)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=miguelpinia&layout=compact&langs_count=10&theme=dracula)](https://github.com/miguelpinia)
+
+
+
 
 <!--
 **miguelpinia/miguelpinia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
