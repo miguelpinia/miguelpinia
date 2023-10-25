@@ -15,7 +15,7 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=miguelpinia&layout=compact&langs_count=10&theme=dracula)](https://github.com/miguelpinia)
 
-[![Miguel's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=miguelpinia&count_private=true&show_icons=true&theme=dracula)](https://github.com/miguelpinia)
+<!-- [![Miguel's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=miguelpinia&count_private=true&show_icons=true&theme=dracula)](https://github.com/miguelpinia) -->
 
 
 
