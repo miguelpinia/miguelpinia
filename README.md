@@ -1,15 +1,13 @@
 # Hi, I'm Miguel 👋 💻
 
-- 🔭 I’m currently working on concurrent/distributed systems, and I'm doing a PhD in Computer Science.
+- 🔭PhD Candidate in Computer Science and Engineering @ UNAM. My topic areas are: Concurrent/Distributed Computing, Software Engineering and Databases.
 - 🌱 Software engineer who is passionate about the development of new technologies to connect people and build community.
 - 💬 Actually I'm working with the following technologies:
-  - C++/Boost/Google Test 💀
+  - Clojure 💻
+  - C++ 🧑‍🎓
+  - Java ☕
   - Javascript/Nodejs/Reactjs 👻
-- 😄 I enjoy work with the following languages when I have the opportunity:
-  - Clojure
-  - Python
-  - emacs-lisp
-  - Java (?)
+
 
 ### The number of the beast: rw-rw-rw-
 
@@ -17,9 +15,7 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=miguelpinia&layout=compact&langs_count=10&theme=dracula)](https://github.com/miguelpinia)
 
-<!--[![Miguel's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=miguelpinia&count_private=true&show_icons=true&theme=dracula)](https://github.com/miguelpinia)
-
--->
+[![Miguel's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=miguelpinia&count_private=true&show_icons=true&theme=dracula)](https://github.com/miguelpinia)
 
 
 
