@@ -1,8 +1,8 @@
 # Hi, I'm Miguel 👋 💻
 
-- 🔭PhD Candidate in Computer Science and Engineering @ UNAM. My topic areas are: Concurrent/Distributed Computing, Software Engineering and Databases.
-- 🌱 Software engineer who is passionate about the development of new technologies to connect people and build community.
-- 💬 Actually I'm working with the following technologies:
+- 🔭PhD Candidate in Computer Science and Engineering @ UNAM. My topic areas are Concurrent/Distributed Computing, Software Engineering, and Databases.
+- 🌱 Software engineer passionate about developing new technologies to connect people and build community.
+- 💬 Currently, I'm working with the following technologies:
   - Clojure 💻
   - C++ 🧑‍🎓
   - Java ☕
